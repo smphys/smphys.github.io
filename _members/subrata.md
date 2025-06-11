@@ -4,7 +4,7 @@ image: images/team/smaju.jpg
 description: PI
 role: pi
 links:
-  email: subrata@nitp.ac.in
+  email:subrata@nitp.ac.in
   github:smphys
 aliases:
   - Subrata Majumder
