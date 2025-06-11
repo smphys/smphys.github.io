@@ -11,9 +11,9 @@ nav:
   include link.html
   type="email"
   icon=""
-  text="katharine.walter@hsc.utah.edu"
+  text="subrata@nitp.ac.in"
   tooltip=""
-  link="katharine.walter@hsc.utah.edu"
+  link="subrata@nitp.ac.in"
   style="button"
 %}
 
@@ -23,7 +23,7 @@ Our lab sits on unceded Ute, Goshute, Shoshone, and Paiute land. We honor the re
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Division of Epidemiology 
-295 Chipeta Way
-Salt Lake City, UT 84108
+Department of Applied Physics and Materials Engineering 
+NIT Patna, Ashok Rajpath
+Patna 800 005, Bihar, India
 {:.center}

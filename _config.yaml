@@ -1,9 +1,9 @@
 ### basic settings
 
 # site properties and page defaults
-title: Evo-Epi Laboratory
-subtitle: at the University of Utah
-description: epidemiology · evolution · environmental change
+title: Bio-Physics Laboratory
+subtitle: at the NIT Patna
+description: Biological · Physics · Nanoscale
 logo: images/logo_white.svg
 logo-text: true
 header: none
@@ -13,10 +13,10 @@ baseurl: /
 
 # site social media and other links
 links:
-  email: katharine.walter@hsc.utah.edu
-  google-scholar: https://scholar.google.com/citations?user=YVa4e_UAAAAJ&hl=en&inst=8389273007308439986
-  github: ksw9
-  link: https://ugive.app.utah.edu/designation/2787?specialInstructions=Evo-Epi%20Lab%20MD00723-40165
+  email: subrata@nitp.ac.in
+  google-scholar: https://scholar.google.co.in/citations?user=uj0Xb94AAAAJ&hl=en
+  github: smphys
+  link: www.nitp.ac.in/
 
 ### advanced settings
 

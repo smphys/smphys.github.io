@@ -1,6 +1,6 @@
 ---
-name: Ashlyn Adakai
-image: images/team/aadakai.jpeg
+name: Deepti
+image: images/team/deepti.jpg
 description: Undergraduate student
 role: undergrad
 

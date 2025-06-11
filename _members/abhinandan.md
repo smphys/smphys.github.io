@@ -1,10 +1,10 @@
 ---
-name: Jacob Sussman
-image: images/team/sussman.jpeg
+name: Abhinandan Kumar
+image: images/team/avinandan.jpg
 description: Undergraduate student
 role: undergrad
 aliases:
-  - Jacob Sussman
+  - Abhinandan
 
 ---
 
