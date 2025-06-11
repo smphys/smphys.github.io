@@ -1,9 +1,10 @@
 ---
-name: Gladys Estigarribia Sanabria
-image: images/team/gsanabria.jpeg
-description: Graduate student
+name: Abhinandan Kumar
+image: [avinandan](https://github.com/user-attachments/assets/dc3a85b4-b3c1-49ef-ab20-6f108d07e1a8)
+description: PhD student!
+
 role: phd
 
 ---
 
-Gladys is a graduate student at the Instituto Regional de Investigación en Salud in Caaguazú, Paraguay studying M. tuberculosis genomic epidemiology.
+Abhinandan is a graduate student at the NIT Patna studying Chiral Spintronics Materials.
