@@ -23,7 +23,7 @@ Our lab sits on unceded Ute, Goshute, Shoshone, and Paiute land. We honor the re
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Department of Applied Physics and Materials Engineering 
-NIT Patna, Ashok Rajpath
+Department of Applied Physics and Materials Engineering, 
+NIT Patna, Ashok Rajpath,
 Patna 800 005, Bihar, India
 {:.center}
