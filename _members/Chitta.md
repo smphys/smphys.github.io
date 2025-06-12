@@ -1,6 +1,6 @@
 ---
 name: Chittatosh Pal
-image: images/team/xxxxx.jpeg
+image: images/team/chitta.jpeg
 description: Alumni
 role: alumni
 aliases:
