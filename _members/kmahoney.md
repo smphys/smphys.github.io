@@ -1,6 +1,6 @@
 ---
 name: Kailey Mahoney
-image: images/team/mahoney.jpg
+image: images/team/xxxx.jpg
 description: Research assistant
 role: ra
 ---
