@@ -2,7 +2,7 @@
 name: Abhinandan Kumar
 image: images/team/avinandan.jpg
 description: Undergraduate student
-role: undergrad
+role: phd
 aliases:
   - Abhinandan
 
