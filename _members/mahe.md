@@ -5,4 +5,6 @@ description: Ph.D student
 role: phd
 
 ---
-Raniah Corrian is a third-year undergraduate student at Clark Atlanta University majoring in Psychology B.S.  researching with the Bridge-Up HBCU program at the University of Utah. She is interested in delving into the intersection of health disparities and epidemiology. Raniah's work in the lab focuses on identifying an infectious disease called Vally Fever but during her free time, she enjoys taking scenic pictures and listening to music. 
+Mahe Taiba Hussain joined the Ph.D. program in 2023 and is currently engaged in advanced research on chirality-induced spin selectivity (CISS) in two-dimensional transition metal dichalcogenides (2D-TMDs) functionalized with chiral biomolecules. Her work aims to explore the
+fundamental mechanisms of spin-dependent electron transport in these systems. In addition to this, she is also developing graphite-based
+electrochemical sensors with enhanced sensitivity for the selective detection of biologically significant molecules. This ongoing aspect of research focuses on improving the limit of detection and selectivity, with potential applications in biosensing. During her free time, she enjoys taking scenic pictures and listening to music.
