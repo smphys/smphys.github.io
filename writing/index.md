@@ -1,5 +1,5 @@
 ---
-title: Writing
+title: ESSAY Writing
 nav:
   order: 3
   tooltip: Writing about health inequity & ecology
