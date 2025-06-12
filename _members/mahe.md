@@ -1,7 +1,7 @@
 ---
 name: Mahe Taiba Hussain
 image: images/team/Mahe.jpg
-description: Undergraduate student
+description: Ph.D student
 role: phd
 
 ---
