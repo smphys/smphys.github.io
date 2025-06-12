@@ -6,7 +6,7 @@ nav:
 ---
 
 # <i class="fa-solid fa-pen-nib"></i>Writing
-{% include section.html %}
+#{% include section.html %}
 
 {%
   include list.html
