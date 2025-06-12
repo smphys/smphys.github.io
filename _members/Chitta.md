@@ -1,10 +1,10 @@
 ---
-name: Ellie Fajer
-image: images/team/efajer.jpeg
+name: Chittatosh Pal
+image: images/team/xxxxx.jpeg
 description: Alumni
 role: alumni
 aliases:
-  - Elinor B. Fajer
+  - Chitattosh
 
 ---
 
