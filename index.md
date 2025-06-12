@@ -13,7 +13,7 @@ title: Home
 
 {% include section.html %}
 
-Pathogen evolution creates an extraordinary epidemiological record and staggering public health challenges. Our group develops and applies evolutionary approaches to answer open questions about pathogen transmission and epidemiological dynamics. We focus on tuberculosis and pathogens linked to the rapidly changing climate in the American West with a goal of directly informing public health in low-income settings.  
+Research on Biophysics - and related pheomena in low dimension (Nanoscale). Our group develops and applies evolutionary approaches to answer open questions about transmission and dynamics of biomolecular interaction. We focus on xxxxxxxxx with a goal of directly xxxxxxxxxxxxxx.  
 
 {:.center} 
 
