@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
-We develop and apply evolutionary approaches to answer open questions about pathogen transmission & epidemiological dynamics with a current focus on M. tuberculosis. Our goal is to directly inform public health in low-income settings.
+We develop and apply evolutionary approaches to answer open questions about xxxxxxxxxxxxxxxxxx.
 
 {% include section.html %}
 
