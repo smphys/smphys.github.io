@@ -2,7 +2,7 @@
 name: Deepti
 image: images/team/deepti.jpg
 description: Ph.D student
-role: grad
+role: phd
 
 ---
 
