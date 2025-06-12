@@ -13,7 +13,7 @@ We have many open opportunities for students interested in Experimental Condense
 
 {% include section.html %}
 
-## Undergraduates
+## Graduates
 
 We look forward to welcoming Interns and Project Students for semesters and summer research, JRFs, and Ph.D Students for Full time Research. 
 {% include section.html %}
