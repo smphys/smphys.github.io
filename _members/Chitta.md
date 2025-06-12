@@ -1,6 +1,6 @@
 ---
 name: Chittatosh Pal
-image: images/team/chitta.jpeg
+image: images/team/chitta.jpg
 description: Alumni
 role: alumni
 aliases:
@@ -8,4 +8,4 @@ aliases:
 
 ---
 
-Ellie worked in the lab as an undergraduate Stanford University King Center Fellow. Her work demonstrated that incarcerated populations have access to different TB diagnostics in Brazil. 
+Dr. Chittatosh Pal worked in the lab as an Ph.D Scholar. His work demonstrated that xxxxxxxxxxxxxx. 
