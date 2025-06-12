@@ -1,8 +1,8 @@
 ---
 name: Deepti
 image: images/team/deepti.jpg
-description: Undergraduate student
-role: undergrad
+description: Ph.D student
+role: grad
 
 ---
 
