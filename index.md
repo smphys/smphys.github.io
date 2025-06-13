@@ -9,9 +9,8 @@ title: Home
 
 {% include section.html %}
 
-<img src="images/chiral protons.jpg" width="200" height="100">
 *Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*
-
+<img src="images/chiral protons.jpg" width="400" height="200">
 
 
 {%
