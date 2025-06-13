@@ -9,8 +9,8 @@ title: Home
 
 {% include section.html %}
 
-![Albuquerque, New Mexico]("images/chiral protons.jpg")
-*A single track trail outside of Albuquerque, New Mexico.*
+<img src="images/chiral protons.jpg" width="200" height="100">
+*Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*
 
 
 
