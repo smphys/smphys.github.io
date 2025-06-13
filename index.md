@@ -10,12 +10,12 @@ title: Home
 
 {% include section.html %}
 
-<figure>
+[<figure>
     <img src="images/chiral protons.jpg" width="400" height="300">
     <figcaption>Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.</figcaption>
-</figure>
+</figure>]: #
 
-<img src="images/chiral protons.jpg" align="left" width="200px"/>
+<img src="images/chiral protons.jpg" align="left" width="500px"/>
 Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.
 
 <br clear="left"/>
