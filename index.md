@@ -27,6 +27,7 @@ Research on Biophysics - and related pheomena in low dimension (Nanoscale) are m
 
 {%
   include gallery.html
-  image1="images/chiral protons.jpg" Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal 
+  ![Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal](images/chiral protons.jpg)
+  image1="images/chiral protons.jpg"  
   image2="images/protein.jpg"
  %}
