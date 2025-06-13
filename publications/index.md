@@ -9,10 +9,10 @@ nav:
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero%2Fsubratavb&jsonp=1"></script>
 
-{% include _section.html %}
+{% include section.html %}
 
-{% include _search-box.html %}
+{% include search-box.html %}
 
-{% include _search-info.html %}
+{% include search-info.html %}
 
-{% include _list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" style="rich" %}
