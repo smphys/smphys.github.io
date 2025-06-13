@@ -1,7 +1,7 @@
 ---
 title: Publications
 nav:
-  order: 2
+  order: 5
   tooltip: Our publications
 ---
 
