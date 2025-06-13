@@ -17,13 +17,9 @@ title: Home
 
 <div class="grid" markdown>
 
-![Image title]("images/chiral protons.jpg")
+"images/chiral protons.jpg"
 
-![Image title]("images/protein.jpg")
-
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=3)
-
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=4)
+"images/protein.jpg"
 
 </div>
 
