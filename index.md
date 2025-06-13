@@ -9,7 +9,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/action/solitude_cropped.jpg" %}
+##{% include banner.html image="images/action/solitude_cropped.jpg" %}
 
 
 {% include section.html %}
@@ -31,10 +31,6 @@ Research on Biophysics - and related pheomena in low dimension (Nanoscale) are m
 
 {%
   include gallery.html
-  image1="images/action/transmission_tree.jpg"
-  link1="research"
-  tooltip1="Our research"
-  image2="images/action/xxxxxxxxx.jpg"
-  link2="opportunities"
-  tooltip2="Join us!"
-%}
+  image1="images/chiral protons.jpg"
+  image2="images/protein.jpg"
+ %}
