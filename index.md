@@ -4,13 +4,14 @@ title: Home
 
 # Biological · Physics · Nanoscale
 
+[To add a comment, place text inside brackets followed by a colon, a space, and a pound sign (e.g., [comment]: #). You should put blank lines before and after a comment.]: # 
 
 {:.center}
 
 {% include section.html %}
 
 *Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*
-<img src="images/chiral protons.jpg" width="400" height="200">
+<img src="images/chiral protons.jpg" width="400" height="300">
 
 
 {%
