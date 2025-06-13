@@ -7,14 +7,19 @@ title: Home
 
 {:.center}
 
-{% include section.html full=true %}
+{% include section.html full=false %}
 
-{% include banner.html image="images/action/solitude_-cropped.jpg" %}
-
+{% include banner.html image="images/chiral protons.jpg" 
+  tooltip1="Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal" %}
 
 {% include section.html %}
 
+image1="images/chiral protons.jpg" 
+  tooltip1="Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal"
+  
 Biophysics is the field that applies the theories and methods of physics to understand how biological systems work. Biophysics has been critical to understanding the mechanics of how the molecules of life are made, how different parts of a cell move and function, and how complex systems in our bodies—the brain, circulation, immune system, and others— work. Biophysics is a vibrant scientific field where scientists from many fields including math, chemistry, physics, engineering, pharmacology, and materials sciences, use their skills to explore and develop new tools for understanding how biology—all life—works.
+
+image2="images/protein.jpg"
 
 Biophysics: The Bridging Science
 Physical scientists use mathematics to explain what happens in nature. Life scientists want to understand how biological systems work. These systems include molecules, cells, organisms, and ecosystems that are very complex. Biological research in the 21st century involves experiments that produce huge amounts of data. How can biologists even begin to understand this data or predict how these systems might work?
