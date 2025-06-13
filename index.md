@@ -25,10 +25,6 @@ Research on Biophysics - and related pheomena in low dimension (Nanoscale) are m
 
 {:.center} 
 
-[Our research](research)
-
-{:.center} 
-
 {%
   include gallery.html
   image1="images/chiral protons.jpg"
