@@ -10,8 +10,14 @@ title: Home
 
 {% include section.html %}
 
-*Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*
-<img src="images/chiral protons.jpg" width="400" height="300">
+<figure>
+    <img src="images/chiral protons.jpg" width="400" height="300"
+         alt="Albuquerque, New Mexico">
+    <figcaption>*Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*</figcaption>
+</figure>
+
+[*Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*
+<img src="images/chiral protons.jpg" width="400" height="300">]: #
 
 
 {%
