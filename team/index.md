@@ -42,5 +42,3 @@ nav:
   link="team"
   width="400px"
 %}
-
-{% include section.html background="images/banner.jpg" dark=true%}
