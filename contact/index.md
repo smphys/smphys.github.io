@@ -24,7 +24,23 @@ Our lab is part of the [Department of Applied Physics and Materials Engineering]
 Department of Applied Physics and Materials Engineering, NIT Patna, Ashok Rajpath, Patna 800 005, Bihar, India
 
 
-#### <i class="fas fa-mail-bulk"></i>Mailing
+### <i class="fas fa-mail-bulk"></i>Mailing
 
-Department of Applied Physics and Materials Engineering, 
+webix.ui({
+  // provide your own Google API key
+  // https://developers.google.com/maps/documentation/javascript/get-api-key
+  key:"AIzaSyAi0oVNVO-e603aUY8SILdD4v9bVBkmiTg",
+  view:"google-map",
+  id:"map",
+  zoom:6,
+  center:[25.6196306,85.1702235]
+});
+
+$$("map").getMap(true).then((map) => {
+  var currentPosition = map.getCenter();
+  let img = `http://maps.google.com/maps/api/staticmap?sensor=false&center=${currentPosition.lat()},${currentPosition.lng()}&zoom=${map.getZoom()}&size=512x512&markers=color:green|label:X|${currentPosition.lat()},${currentPosition.lng()}&key=${$$("map").config.key}`;
+  console.log(img);
+});
+
+ 
 {:.center}
