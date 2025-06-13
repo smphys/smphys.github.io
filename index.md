@@ -11,10 +11,22 @@ title: Home
 {% include section.html %}
 
 <figure>
-    <img src="images/chiral protons.jpg" width="400" height="300"
-         alt="Albuquerque, New Mexico">
+    <img src="images/chiral protons.jpg" width="400" height="300">
     <figcaption>Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.</figcaption>
 </figure>
+
+<div class="grid" markdown>
+
+![Image title]("images/chiral protons.jpg"?text=1)
+
+![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=2)
+
+![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=3)
+
+![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=4)
+
+</div>
+
 Biophysics is the field that applies the theories and methods of physics to understand how biological systems work. Biophysics has been critical to understanding the mechanics of how the molecules of life are made, how different parts of a cell move and function, and how complex systems in our bodies—the brain, circulation, immune system, and others— work. Biophysics is a vibrant scientific field where scientists from many fields including math, chemistry, physics, engineering, pharmacology, and materials sciences, use their skills to explore and develop new tools for understanding how biology—all life—works.
 
 {%
