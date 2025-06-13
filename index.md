@@ -9,7 +9,7 @@ title: Home
 
 {% include section.html %}
 
-![Albuquerque, New Mexico](images/chiral protons.jpg)
+![Albuquerque, New Mexico]("images/chiral protons.jpg")
 *A single track trail outside of Albuquerque, New Mexico.*
 
 
