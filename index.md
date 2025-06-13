@@ -8,7 +8,7 @@ title: Home
 
 {:.center}
 
-[{% include section.html %}]: #
+{% include section.html %}
 
 <figure>
     <img src="images/chiral protons.jpg" width="400" height="300"
