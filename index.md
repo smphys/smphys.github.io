@@ -9,8 +9,8 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/action/_solitude_cropped.jpg" %}
-{% include banner.html image="images/patna-ganga.jpg" %}
+{% include banner.html image="images/action/solitude_cropped.jpg" %}
+
 
 {% include section.html %}
 
