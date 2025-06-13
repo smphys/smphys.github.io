@@ -7,7 +7,6 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
-We develop and apply evolutionary approaches to answer open questions about xxxxxxxxxxxxxxxxxx.
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero%2Fsubratavb&jsonp=1"></script>
 
 {% include _section.html %}
