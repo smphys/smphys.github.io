@@ -7,9 +7,8 @@ title: Home
 
 {:.center}
 
-{% include section.html full=true %}
-
-[{% include banner.html image="images/chiral protons.jpg"%}]::
+[{% include section.html full=true %}
+{% include banner.html image="images/chiral protons.jpg"%}]::
 
 {% include section.html %}
 
