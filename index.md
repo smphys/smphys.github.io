@@ -16,20 +16,9 @@ title: Home
     <figcaption>Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.</figcaption>
 </figure>
 
-![Alt text]("images/chiral protons.jpg" "a title")
-
-*Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*<img src="images/chiral protons.jpg" width="400">
-
-[*Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*
-<img src="images/chiral protons.jpg" width="400" height="300">]: #
-
-
-{%
-  include gallery.html
-  image1="images/chiral protons.jpg" 
-  tooltip1="Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal"
-  %}
-  
+*Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*
+<img src="images/chiral protons.jpg" width="400" height="300">
+ 
 Biophysics is the field that applies the theories and methods of physics to understand how biological systems work. Biophysics has been critical to understanding the mechanics of how the molecules of life are made, how different parts of a cell move and function, and how complex systems in our bodies—the brain, circulation, immune system, and others— work. Biophysics is a vibrant scientific field where scientists from many fields including math, chemistry, physics, engineering, pharmacology, and materials sciences, use their skills to explore and develop new tools for understanding how biology—all life—works.
 
 {%
