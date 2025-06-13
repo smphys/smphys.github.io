@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero%2Fsubratavb&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2Fi3LqMpajAFFBDmKLM&noBootstrap=1&jsonp=1"></script>
 
 {% include section.html %}
 
