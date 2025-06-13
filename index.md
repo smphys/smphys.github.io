@@ -31,6 +31,6 @@ Physical scientists use mathematics to explain what happens in nature. Life scie
 
 This is where biophysicists come in. Biophysicists are uniquely trained in the quantitative sciences of physics, math, and chemistry and they are able tackle a wide array of topics, ranging from how nerve cells communicate, to how plant cells capture light and transform it into energy, to how changes in the DNA of healthy cells can trigger their transformation into cancer cells, to so many other biological problems.
 
-Research on Biophysics - and related pheomena in low dimension (Nanoscale) are main issues we are focussing on. Our group develops and applies evolutionary approaches to answer open questions about transmission and dynamics of biomolecular interaction.
+[Research on Biophysics - and related pheomena in low dimension (Nanoscale) are main issues we are focussing on. Our group develops and applies evolutionary approaches to answer open questions about transmission and dynamics of biomolecular interaction.]::
 
 {:.center} 
