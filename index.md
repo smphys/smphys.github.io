@@ -13,8 +13,12 @@ title: Home
 <figure>
     <img src="images/chiral protons.jpg" width="400" height="300"
          alt="Albuquerque, New Mexico">
-    <figcaption>*Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*</figcaption>
+    <figcaption>Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.</figcaption>
 </figure>
+
+![Alt text]("images/chiral protons.jpg" "a title")
+
+*Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*<img src="images/chiral protons.jpg" width="400">
 
 [*Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal.*
 <img src="images/chiral protons.jpg" width="400" height="300">]: #
