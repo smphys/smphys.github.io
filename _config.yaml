@@ -4,7 +4,7 @@
 [title: Bio-Physics Laboratory]: #
 [subtitle: at the NIT Patna]: #
 description: Biological · Physics · Nanoscale
-logo: images/logo_white.svg
+[logo: images/logo_white.svg]: #
 logo: images/lab-6.png
 logo-text: true
 header: none
