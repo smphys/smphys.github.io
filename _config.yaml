@@ -1,7 +1,7 @@
 ### basic settings
 
 # site properties and page defaults
-[title: Bio-Physics Laboratory]: #
+title: Bio-Physics Laboratory
 [subtitle: at the NIT Patna]: #
 description: Biological · Physics · Nanoscale
 logo: images/logo_white.svg
