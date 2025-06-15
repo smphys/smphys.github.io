@@ -20,11 +20,17 @@ Biophysics is the field that applies the theories and methods of physics to unde
   image2="images/protein.jpg"
  %}
 
-Biophysics: The Bridging Science
+#Biophysics: The Bridging Science#
+
 Physical scientists use mathematics to explain what happens in nature. Life scientists want to understand how biological systems work. These systems include molecules, cells, organisms, and ecosystems that are very complex. Biological research in the 21st century involves experiments that produce huge amounts of data. How can biologists even begin to understand this data or predict how these systems might work?
 
 This is where biophysicists come in. Biophysicists are uniquely trained in the quantitative sciences of physics, math, and chemistry and they are able tackle a wide array of topics, ranging from how nerve cells communicate, to how plant cells capture light and transform it into energy, to how changes in the DNA of healthy cells can trigger their transformation into cancer cells, to so many other biological problems.
 
 Research on Biophysics - and related pheomena in low dimension (Nanoscale) are main issues we are focussing on. Our group develops and applies evolutionary approaches to answer open questions about transmission and dynamics of biomolecular interaction.
+
+[Active matter lab]: #
+#Active matter for the future of material and life science#
+
+“Active matter” is a substance that has a mechanism that converts the energy stored in chemical substances and light into mechanical work. It has characteristics not found in existing materials in that it spontaneously expresses movement. We would like to pursue the scientific studies related to such active matter and create new materials based on it to eventually unveil the mystery of life!
 
 {:.center} 
