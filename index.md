@@ -31,6 +31,9 @@ Research on Biophysics - and related pheomena in low dimension (Nanoscale) are m
 [Active matter lab]: #
 ## Active matter for the future of material and life science
 
-“Active matter” is a substance that has a mechanism that converts the energy stored in chemical substances and light into mechanical work. It has characteristics not found in existing materials in that it spontaneously expresses movement. We would like to pursue the scientific studies related to such active matter and create new materials based on it to eventually unveil the mystery of life!
+“Active matter” is a substance that has a mechanism that converts the energy stored in chemical substances and light into mechanical work. It has characteristics not found in existing materials in that it spontaneously expresses movement. Schrödinger highlighted the significance of continuous energy consumption, emphasizing the need for living systems to remain far from thermodynamic equilibrium to establish order and complexity. Examples include flocks or herds of animals, collections of cells, and components of the cellular cytoskeleton, where mechanical energy is locally introduced by the agents. We would like to pursue the scientific studies related to such active matter and create new materials based on it to eventually unveil the mystery of life!
+ 
+
+
 
 {:.center} 
