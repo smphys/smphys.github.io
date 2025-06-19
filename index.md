@@ -26,8 +26,7 @@ Few interesting coverages can be enjoyed here:
 <br clear="left"/>
 
 
-[{%
-  include gallery.html
+[{%include gallery.html
   image2="images/protein.jpg"
- %}] #
+ %}]: #
 [Active matter lab]: # 
