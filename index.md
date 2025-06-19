@@ -6,6 +6,7 @@ title: Home
 
 [To add a comment, place text inside brackets followed by a colon, a space, and a pound sign (e.g., [comment]: #). You should put blank lines before and after a comment.]: # 
 {:.center}
+{% include section.html %}
 ## Materials Physics of Biological Interfaces
 Covers, at a molecular scale, the analysis and design of materials used in contact with biological systems, and biomimetic strategies aimed at creating new materials based on principles found in biology. The research aimed at molecular interaction between bio- and synthetic molecules and surfaces; design, synthesis, and processing approaches for materials that control cell functions; and application of materials science to problems in tissue engineering, drug delivery, vaccines, and cell-guiding surfaces.
 
@@ -17,7 +18,7 @@ Research on Biophysics - and related pheomena in low dimension (Nanoscale) are m
 Few interesting coverages can be enjoyed here:  
 
 {:.center}
-{% include section.html %}
+[% include section.html %]: #
 <img src="images/chiral protons.jpg" align="left" width="500px" style="margin:16px;"/>
 <span style="color:brown">Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal</span>
 <br clear="left"/>
