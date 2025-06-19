@@ -17,8 +17,6 @@ Research on Biophysics - and related pheomena in low dimension (Nanoscale) are m
 
 Few interesting coverages can be enjoyed here:  
 
-{:.center}
-[% include section.html %]: #
 <img src="images/chiral protons.jpg" align="left" width="500px" style="margin:16px;"/>
 <span style="color:brown">Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal</span>
 <br clear="left"/>
@@ -27,5 +25,4 @@ Few interesting coverages can be enjoyed here:
   include gallery.html
   image2="images/protein.jpg"
  %}
-[Active matter lab]: #
-{:.center} 
+[Active matter lab]: # 
