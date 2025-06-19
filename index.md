@@ -22,7 +22,7 @@ Few interesting coverages can be enjoyed here:
 <br clear="left"/>
 
 <img src="images/chiral protons.jpg" align="left" width="500px" style="margin:0px;"/>
-<span style="color:brown" style="margin:16px;">Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal</span>
+<span style="color:brown" style="margin:16px;"/>Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal</span>
 <br clear="left"/>
 
 
