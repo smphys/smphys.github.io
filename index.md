@@ -25,8 +25,5 @@ Few interesting coverages can be enjoyed here:
 <span style="color:brown">Protein network</span>
 <br clear="left"/>
 
-
-[{%include gallery.html
-  image2="images/protein.jpg"
- %}]: #
+[{%include gallery.html image2="images/protein.jpg" %}]: #
 [Active matter lab]: # 
