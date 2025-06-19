@@ -6,6 +6,18 @@ title: Home
 
 [To add a comment, place text inside brackets followed by a colon, a space, and a pound sign (e.g., [comment]: #). You should put blank lines before and after a comment.]: # 
 
+The main research in the group lies on: 
+
+## Materials Physics of Biological Interfaces
+
+Covers, at a molecular scale, the analysis and design of materials used in contact with biological systems, and biomimetic strategies aimed at creating new materials based on principles found in biology. The research aimed at molecular interaction between bio- and synthetic molecules and surfaces; design, synthesis, and processing approaches for materials that control cell functions; and application of materials science to problems in tissue engineering, drug delivery, vaccines, and cell-guiding surfaces.
+
+## Active matter \ Active Granular Systems for the future of material and life science
+
+“Active matter” eka Active granular systems is a substance that has a mechanism that converts the energy stored in chemical substances and light into mechanical work. Unlike passive granular materials, active particles exhibit persistent, self-driven movement, resulting in unique behaviors such as clustering and pattern formation. Schrödinger highlighted the significance of continuous energy consumption, emphasizing the need for living systems to remain far from thermodynamic equilibrium to establish order and complexity. Examples include flocks or herds of animals, collections of cells, and components of the cellular cytoskeleton, where mechanical energy is locally introduced by the agents. We would like to pursue the scientific studies related to such active matter and design smart materials based on it to eventually unveil the mystery of life!
+
+Research on Biophysics - and related pheomena in low dimension (Nanoscale) are main issues we are focussing on. Our group develops and applies evolutionary approaches to answer open questions about transmission and dynamics of biomolecular interaction.
+Few interesting coverages can be enjoyed below:  
 {:.center}
 
 {% include section.html %}
@@ -13,27 +25,9 @@ title: Home
 <span style="color:brown">Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal</span>
 <br clear="left"/>
 
-Biophysics is the field that applies the theories and methods of physics to understand how biological systems work. Biophysics has been critical to understanding the mechanics of how the molecules of life are made, how different parts of a cell move and function, and how complex systems in our bodies—the brain, circulation, immune system, and others— work. Biophysics is a vibrant scientific field where scientists from many fields including math, chemistry, physics, engineering, pharmacology, and materials sciences, use their skills to explore and develop new tools for understanding how biology—all life—works.
-
 {%
   include gallery.html
   image2="images/protein.jpg"
  %}
-
-## Biophysics: The Bridging Science
-
-Physical scientists use mathematics to explain what happens in nature. Life scientists want to understand how biological systems work. These systems include molecules, cells, organisms, and ecosystems that are very complex. Biological research in the 21st century involves experiments that produce huge amounts of data. How can biologists even begin to understand this data or predict how these systems might work?
-
-This is where biophysicists come in. Biophysicists are uniquely trained in the quantitative sciences of physics, math, and chemistry and they are able tackle a wide array of topics, ranging from how nerve cells communicate, to how plant cells capture light and transform it into energy, to how changes in the DNA of healthy cells can trigger their transformation into cancer cells, to so many other biological problems.
-
-Research on Biophysics - and related pheomena in low dimension (Nanoscale) are main issues we are focussing on. Our group develops and applies evolutionary approaches to answer open questions about transmission and dynamics of biomolecular interaction.
-
 [Active matter lab]: #
-## Active matter for the future of material and life science
-
-“Active matter” is a substance that has a mechanism that converts the energy stored in chemical substances and light into mechanical work. It has characteristics not found in existing materials in that it spontaneously expresses movement. Schrödinger highlighted the significance of continuous energy consumption, emphasizing the need for living systems to remain far from thermodynamic equilibrium to establish order and complexity. Examples include flocks or herds of animals, collections of cells, and components of the cellular cytoskeleton, where mechanical energy is locally introduced by the agents. We would like to pursue the scientific studies related to such active matter and create new materials based on it to eventually unveil the mystery of life!
- 
-
-
-
 {:.center} 
