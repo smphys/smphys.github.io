@@ -24,10 +24,5 @@ Few interesting coverages can be enjoyed here:
 <img src="images/protein.jpg" align="left" width="500px" style="margin:16px;"/>
 <span style="color:brown">Protein network</span>
 <br clear="left"/>
-<!--
-{%
-include gallery.html
-image2="images/protein.jpg"
-%}
--->
+<!--{% include gallery.html image2="images/protein.jpg" %}-->
 [Active matter lab]: # 
