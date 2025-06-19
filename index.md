@@ -21,16 +21,13 @@ Few interesting coverages can be enjoyed here:
 <span style="color:brown">Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal</span>
 <br clear="left"/>
 
-{%
-  include gallery.html
-  image2="images/chiral protons.jpg"
- <span style="color:brown">Coupling between electrons’ spin and proton transfer in chiral lysozyme crystal</span>
- %}
+<img src="images/protein.jpg" align="left" width="500px" style="margin:16px;"/>
+<span style="color:brown">Protein network</span>
 <br clear="left"/>
 
 
-{%
+[{%
   include gallery.html
   image2="images/protein.jpg"
- %}
+ %}] #
 [Active matter lab]: # 
