@@ -1,6 +1,6 @@
 ---
 name: Subrata Majumder, PhD
-image: images/team/smaju2.png
+image: images/team/smaju3.png
 description: PI
 role: pi
 links:
