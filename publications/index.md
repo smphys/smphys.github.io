@@ -7,5 +7,5 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FTCK3hq4avSeaYwgnY&noBootstrap=1&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FavEfS7sq8RN7asYW7&noBootstrap=1&jsonp=1"></script>
 
